@@ -32,7 +32,14 @@
         border-radius: 5px;
         border: none;
         outline: none;
-        margin-left: 2px;
+        margin-left: 5px;
+        background: #005564;
+        color: white;
+        cursor: pointer;
+
+        &:hover{
+          background: #00788d;
+        }
       }
     }
 
